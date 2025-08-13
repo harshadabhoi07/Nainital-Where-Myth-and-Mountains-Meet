@@ -1,20 +1,20 @@
 # Nainital-Where-Myth-and-Mountains-Meet
 
-# 📍 Project Overview
+Project Overview
  Skill Craft Internship Task 1:- This project is a simple and beautiful Nainital travel website built using HTML, CSS, and JavaScript
 
-# ✨ Features
+Features
 - Responsive web design for all devices  
 - Interactive sections using JavaScript  
 - Custom styling with CSS
 
-# 📂 File Structure
+File Structure
 - `index.html` – Main HTML file  
 - `style.css` – Stylesheet for the project  
 - `script.js` – JavaScript functionality  
-- `README.md` – Project documentation  
+- `README.md` – Project documentation
 
-# 🚀 Getting Started
+Getting Started
 1.Clone the repository:  https://github.com/harshadabhoi07/nainital-web.git
 2.2. Open index.html in your browser to view the project
 
