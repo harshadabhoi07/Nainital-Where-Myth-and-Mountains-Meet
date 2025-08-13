@@ -1,8 +1,7 @@
 # Nainital-Where-Myth-and-Mountains-Meet
 
 # 📍 Project Overview
-This project is a simple and beautiful Nainital travel website built using HTML, CSS, and JavaScript  
-It showcases the beauty, tourist attractions, adventure activities, and travel tips for one of India’s most famous hill stations.
+ Skill Craft Internship Task 1:- This project is a simple and beautiful Nainital travel website built using HTML, CSS, and JavaScript
 
 # ✨ Features
 - Responsive web design for all devices  
