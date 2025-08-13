@@ -25,14 +25,18 @@ It showcases the beauty, tourist attractions, adventure activities, and travel t
 2.2. Open index.html in your browser to view the project
 
 
+
 Usage
 1. Modify index.html to change the content.
 2. Update style.css for custom styles.
 3. Edit script.js to add or change interactivity.
 
 
+
 Author
 Harshada Bhoi
+
+
 
 License
 This project is licensed under the MIT License
