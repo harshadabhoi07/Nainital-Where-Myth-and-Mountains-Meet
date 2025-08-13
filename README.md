@@ -14,7 +14,7 @@
 
 # Getting Started
 1.Clone the repository:
-https://github.com/harshadabhoi07/nainital-web.git
+https://github.com/harshadabhoi07/Nainital-Where-Myth-and-Mountains-Meet
 
 # Usage
 1. Modify index.html to change the content.
