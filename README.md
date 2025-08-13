@@ -14,8 +14,8 @@
 
 # Getting Started
 1.Clone the repository:
-   https://github.com/harshadabhoi07/nainital-web.git
-2.2. Open index.html in your browser to view the project
+https://github.com/harshadabhoi07/nainital-web.git
+2. Open index.html in your browser to view the project
 
 # Usage
 1. Modify index.html to change the content.
