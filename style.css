@@ -1,0 +1,139 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Navigation bar */
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: transparent;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  z-index: 1000;
+  padding: 15px 30px;
+  background-color: #18ad68;
+}
+
+.navbar.scrolled {
+  background-color: #bd217c;
+  box-shadow: 0 2px 5px rgba(9, 20, 172, 0.2);
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-links li {
+  margin-left: 30px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: rgb(8, 8, 8);
+  font-size: 18px;
+  position: relative;
+  padding: 5px 0;
+  transition: color 0.3s ease;
+}
+
+/* Hover effect */
+.nav-links a::after {
+  content: "";
+  position: absolute;
+  width: 0%;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: white;
+  transition: width 0.3s ease;
+}
+
+.nav-links a:hover::after {
+  width: 100%;
+}
+
+.nav-links a:hover {
+  color: #110f10;
+}
+
+/* Content styling to make scrolling possible */
+.content section {
+  height: 100vh;
+  padding: 100px 30px;
+  background: #f4f4f4;
+  border-bottom: 1px solid #ccc;
+  
+}
+
+#home , #services , #about , #contact{
+  font-size: 40px;
+  text-align: center;
+  padding: 100px;
+  padding-bottom: 100px;
+}
+
+li{
+  list-style: none;
+}
+
+#home p{
+  font-size: 20px;
+  color: #333333;
+  margin-top: 20px;
+  text-align: center;
+}
+
+#home p:hover{
+  color: #250966;
+}
+#home img{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+#services li{
+  font-size: 20px;
+  color: #333;
+  margin-top: 20px;
+  text-align: center;
+  
+}
+
+#about p{
+  font-size: 20px;
+  color: #333;
+  margin-top: 20px;
+  text-align: center;
+}
+
+/* #contact form {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  margin: 0 auto;
+} */
+
+#contact p{
+  font-size: 30px;
+  padding: 20px;
+  
+}
+
+#contact ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+  font-size: 30px;
+}
